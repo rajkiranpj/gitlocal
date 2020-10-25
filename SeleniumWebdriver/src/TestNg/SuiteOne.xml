@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name ="FirstSuite">
+	<test name="firsttest">
+		<classes>
+			<class name="TestNg.Assertions"/>
+			<class name="TestNg.SoftTest"/>
+			
+		</classes>
+	</test>
+</suite>
